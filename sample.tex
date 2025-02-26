@@ -1,0 +1,53 @@
+\documentclass{beamer}
+\usetheme{hippo}
+
+\title{Introduction to Beamer}
+
+\author{Matt Kukla}
+\date{February 2025}
+
+\begin{document}
+\frame{\titlepage}
+
+\frame{\tableofcontents}
+
+\section{Overview}
+\begin{frame}{Introduction}
+    Itemized list:
+    \begin{itemize}
+        \item Item 1
+            \begin{itemize}
+                \item Subitem 1.1
+                \begin{itemize}
+                    \item Subsubitem 1.1.1
+                \end{itemize}
+            \end{itemize}
+        \item Item 2
+        \item Item 3
+    \end{itemize}
+    Enumerated list:
+    \begin{enumerate}
+        \item Item 1
+            \begin{enumerate}
+                \item Subitem 1.1
+            \end{enumerate}
+        \item Item 2
+        \item Item 3
+    \end{enumerate}
+\end{frame}
+
+\section{Blocks}
+\begin{frame}{Block Styles}
+
+    \begin{block}{Ordinary Block}
+        This is an ordinary block.
+    \end{block}
+    \begin{alertblock}{Alert}
+        This is an alert block.
+    \end{alertblock}
+    \begin{exampleblock}{Example}
+        This is an example block.
+    \end{exampleblock}
+\end{frame}
+
+\end{document}

@@ -10,7 +10,7 @@ repository](https://github.com/matt-kukla/hippo) or download as a
 Once this has been done, the theme can be used by including 
 `\usetheme{hippo}` in your document.  It's also possible to use the
 color selection with another theme by invoking `\usecolortheme{hippo}`, although
-you may need to tweak some settings to obtain a uniform look.
+you may need to tweak some settings for a uniform look.
 
 ## Samples
 See the sample [code](sample.tex) and [PDF](samples/sample.pdf).
@@ -22,5 +22,4 @@ See the sample [code](sample.tex) and [PDF](samples/sample.pdf).
 
 ## License
 Hippo is licensed under the [LaTeX Project Public
-License](https://www.latex-project.org/lppl/lppl-1-3c.txt),
-and is not affiliated with George Washington University in any way.
+License](https://www.latex-project.org/lppl/lppl-1-3c.txt).

@@ -1,5 +1,5 @@
 # hippo
-Hippo is a multipurpose Beamer theme using the color scheme of George
+Hippo is a Beamer theme using the color palette of George
 Washington University. It is designed to be simple and minimalistic.
 
 ## Installation
